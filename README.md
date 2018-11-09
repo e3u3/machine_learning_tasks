@@ -2,6 +2,8 @@
 
 #### Updated: November 8th, 2018
 
+#### STATUS: Non-Functioning
+
 This repo contains various approaches to solving the standard machine learning problem of classification. All of the matlab scripts are written as live scripts. For further information about what each script is doing please refer to the comments in each.
 
 **File Structure**
@@ -15,3 +17,4 @@ This repo contains various approaches to solving the standard machine learning p
     - Perceptron
     - Boosting
     - Support Vector Machine (SVM)
+1. Neural Networks Folder
